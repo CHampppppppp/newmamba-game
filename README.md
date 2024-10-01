@@ -1,7 +1,7 @@
 # newmamba-game (c++,easyx)
 这是一款改编于经典游戏贪吃蛇的小游戏《贪吃曼巴》
 
-以实现功能：
+已实现功能：
 1.基本移动和长按方向键加减速 basic movement and hold to speed up
 2.按h增加游戏难度（障碍物增加） press 'h' to increase game difficulty (more arms)
 3.死亡时扣1复活牢大 press '1' immediately to bring back mamba 
