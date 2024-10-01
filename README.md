@@ -1,4 +1,4 @@
-# newmamba-game
+# newmamba-game (c++,easyx)
 这是一款改编于经典游戏贪吃蛇的小游戏《贪吃曼巴》
 
 以实现功能：
